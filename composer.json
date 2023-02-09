@@ -1,0 +1,15 @@
+{
+    "name": "tjoks/tjoks",
+    "autoload": {
+        "psr-4": {
+            "Tjoks\\Tjoks\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Devpoa Software",
+            "email": "suporte.devpoa@gmail.com"
+        }
+    ],
+    "require": {}
+}
